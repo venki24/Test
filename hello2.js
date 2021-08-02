@@ -6,18 +6,7 @@ console.log('Deleting after commit')
 console.log('Deleting after commit')
 console.log('Deleting after commit')
 
-<<<<<<< HEAD
 console.log('Ill eat burger ')
 console.log('Ill eat burger ')
 console.log('Ill eat burger ')
 console.log('Ill eat burger ')
-=======
-
-console.log('Are u thirsty')
-console.log('Are u thirsty')
-console.log('Are u thirsty')
-console.log('Drink water and soda')
-console.log('Drink water and soda')
-console.log('Drink water and soda')
-console.log('Drink water and soda')
->>>>>>> thirsty
